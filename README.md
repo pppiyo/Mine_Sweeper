@@ -6,7 +6,14 @@ Classical mine sweeper game developed in Java
 2. In your terminal, navigate to the folder where the files live.
 3. Type "java MineSweeper", hit enter, enjoy the game!
 
-## Code effect:
+## How to play:
+1. Start by clicking on a random cell.
+2. Use your analytical mind to determine which is a mine based on the hints given. Label a mine by right clicking on the cell.
+3. Number on the top left corner indicates the mines left. It equals to (the total number of mines - mines you have labeled) to be more specific.
+4. Once you've correctly pinned down all the mines and opened all safe cells, you win!
+5. You'll lose if you clicked on any mine.
+
+## Game snapshots:
 
 ### Initial State
 <img width="512" alt="Screenshot 2024-04-11 at 14 58 16" text-align="center" src="https://github.com/pppiyo/Mine_Sweeper/assets/31379013/462daff7-515a-4a82-9215-61be718421bc">

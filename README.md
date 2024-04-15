@@ -4,7 +4,7 @@ Classical mine sweeper game developed in Java
 ## How to run:
 1. Download the files.
 2. In your terminal, navigate to the folder where the files live.
-3. Type "java MineSweeper", hit enter, enjoy the game!
+3. Type "java MineSweeper", hit enter and enjoy the game!
 
 ## How to play:
 1. Start by clicking on a random cell.

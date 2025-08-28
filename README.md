@@ -9,7 +9,7 @@ Classical mine sweeper game developed in Java.
 ## How to play:
 1. Start by clicking on a random cell.
 2. Use your analytical mind to determine which is a mine based on the hints given. Label a mine by right clicking on the cell.
-3. Number on the top left corner indicates the mines left. To be more specific, it equals to the total number of mines - mines you have labeled.
+3. Number on the top left corner indicates the mines left. To be more specific, it equals to the total number of mines minus mines you have labeled.
 4. Once you've correctly pinned down all the mines and opened all safe cells, you win!
 5. You'll lose if you clicked on any mine.
 

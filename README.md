@@ -1,5 +1,5 @@
 # Mine Sweeper
-Classical mine sweeper game developed in Java
+Classical mine sweeper game developed in Java.
 
 ## How to run:
 1. Download the files.
